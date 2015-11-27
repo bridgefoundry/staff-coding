@@ -1,6 +1,8 @@
-##Interview One: White Boarding  
-Candidate Name: Laura Kirby  
-Date: 11/25/15  
+##Interview One: White Boarding   
+**Date:** 11/25/15  
+**Candidate Name:** Laura Kirby  
+**Description:** Candidate will work through a white-boarding challenge with at least one Mentor. All participants should feel relaxed, as this mostly just an opportunity to begin working together.  
+
 **Prompt:**  
 * Part 1: We have two independent code bases for two websites. We want to pull data from Website A and display it on Website B. How would we do this?  
 * Part 2: The data will be used for a graph on the front-end of Website B. Suppose you were to build the routes for Website A, what would they look like?  
@@ -15,7 +17,7 @@ Date: 11/25/15
 * Demonstrates general understanding of how a Rails application works. 
 
 **Room for Improvement:**  
-* Thorough understanding of HTTP request/response protocol
+* Thorough understanding of HTTP request/response protocol  
 
 **Needs work before moving forward:**  
 *  
@@ -27,25 +29,31 @@ Date: 11/25/15
 * JS Graphing Framework   
 * JS Testing on frontend
 
-**Getting started with next steps of building application:**  
+**Next Steps:**  
 * Build a small sample of what the implementation will look like  
 * Create an issue on the BridgeTroll repo, mark it "discussion", and write up a proposal for Lili and Trevor to review  
 
-**Understanding of Rails, Ruby and Javascript:**
+**Notes:**  
+*   
 
-	0 - can write "hello world"
-	4 - can implement language/framework, may need need to look up a few items for syntax
-	5 - proficient - write code without having to look anything up
-	9 - write a book on how the language/framework works
-	10 - write a book on implementation
+**Candidate's Self-Assesment & BridgeFoundry Team's Assessment of Candidate:**  
+	0 - can write "hello world"  
+	1 - has written about 200 lines of code in given language/framework  
+	2 - has built small application or service, no database  
+	3 - has built a one or two CRUD apps with given language/framework  
+	4 - can implement language/framework, may need to look up a few items for syntax  
+	5 - can write code without having to look anything up  
+	6 - can write code quickly without much thought about syntax  
+	7 - has worked and contributed without a senior pair on a larger project (e.g. an open source project)  
+	8 - contributes often to large code bases  
+	9 - can write a book on how the language/framework works  
+	10 - can write a book on implementation and best practices  
 
-	----------
 	Candidate Ranks herself/himself: 
 	 - Ruby: 4
 	 - Rails: 4
-	 - Javascript: 5
-	 
-	---------- 
+	 - Javascript: 5  
+
 	BridgeFoundry Team Ranks Candidate:
 	 - Ruby: 4
 	 - Rails: 4
