@@ -7,7 +7,7 @@
   - understands that both parties have something to gain from paring.
   - holds mentee accountable by setting expectations.
   - is clear about setting definite goals and agreeing upon such goals with mentee (e.g. mentor and mentee create a board on Trello to track tasks).
-  - is optimistic about mentee's ability to learn and progress made.
+  - is optimistic about mentee's ability to learn and make progress.
   - allows mentee to voice questions and concerns without feeling as though her/his tactics are being questioned.
   - has professional experience with said technology (e.g. Ruby on Rails).
   - provides constructive criticism.
