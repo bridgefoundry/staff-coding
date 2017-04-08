@@ -25,6 +25,6 @@ Start small and find two people to fill these positions for about 1-3 months, we
 
 ## Intial Pilot History
 
-* Bridge Foundry board allocated $1200 in late 2016 for an initial experiment which will fund some program development work as well as engineering work.  We have two volunteers willing to act in the senior engineer roles, participating in program ideation and hands-on pairing sessions. The goal for this phase was to spend a few weeks and understand how this would work on a very practical level, and provide a member of our community experience to reference in her job search.
+* Bridge Foundry board allocated $1200 in late 2015 for an initial experiment which will fund some program development work as well as engineering work.  We have two volunteers willing to act in the senior engineer roles, participating in program ideation and hands-on pairing sessions. The goal for this phase was to spend a few weeks and understand how this would work on a very practical level, and provide a member of our community experience to reference in her job search.
 
 * Bridge Foundry would raise additional funds for additional iterations.
